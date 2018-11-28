@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/vagrant/purichan-map/app/controllers/HomeController.java:4:1: package play.api.db does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport play.api.db.*;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vagrant/purichan-map/app/controllers/HomeController.java:19:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class val[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0m        val ds = DB.getDataSource();[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vagrant/purichan-map/app/controllers/HomeController.java:19:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable DB[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0m        val ds = DB.getDataSource();[0m
